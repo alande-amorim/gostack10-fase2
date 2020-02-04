@@ -27,10 +27,10 @@ This will start a webserver on http://localhost:3000
 
 # REST API
 
-- [Get all users](##get-list-of-users)
-- [Get a specific user](##get-a-specific-user)
-- [Create a user](##create-a-user)
-- [Delete a user](##delete-a-user)
+- [Get all users](#get-list-of-users)
+- [Get a specific user](#get-a-specific-user)
+- [Create a user](#create-a-user)
+- [Delete a user](#delete-a-user)
 
 ## Get list of users:
 ### Request:
